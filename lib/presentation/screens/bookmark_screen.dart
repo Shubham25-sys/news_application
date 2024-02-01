@@ -135,7 +135,6 @@ class _BookMarkScreenState extends State<BookMarkScreen> {
                                     }, icon: Image(image: AssetImage(ImageAssets.delete),color: darkModeProvider.isDarkMode ? ColorManager.gray : ColorManager.black)
                                   ),
                                   )
-
                                 ],
                               )
                             ],
